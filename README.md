@@ -1,5 +1,6 @@
 # Notes_Detection
-This work for the detection of notes (Music notes) from input sound clip. 
+
+This code can detect notes (Music notes) from input sound clip. With change of some parameters inside code it ca be adjusted for any environment. 
 
 Input : Sound in wav formate
 Output : Notes (like C, C-sharp etc)
